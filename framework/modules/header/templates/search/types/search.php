@@ -59,4 +59,4 @@ if ( typeof jQuery !== 'undefined' ) {
 		} );
 	} );
 }
-</script
+</script>
