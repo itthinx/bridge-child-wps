@@ -30,9 +30,3 @@ function bridge_child_wps_search_form() {
 	}
 	echo $form;
 }
-
-// function theme_enqueue_styles() {
-// 	wp_enqueue_style( 'bridge-parent-stylesheet', get_template_directory_uri() . '/style.css' );
-// 	wp_enqueue_style( 'bridge-child-wps', get_stylesheet_directory_uri() . '/style.css', array( 'bridge-stylesheet' ) );
-// }
-// add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
